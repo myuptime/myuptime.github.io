@@ -13,7 +13,7 @@ sites:
     url: https://coloradoquiz.web.app
 
 status-website:
-  baseUrl: /
+  baseUrl: /myuptime.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the name"
