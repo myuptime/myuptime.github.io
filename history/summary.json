@@ -6,18 +6,20 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 163,
-    "timeWeek": 144,
-    "timeMonth": 111,
+    "timeDay": 100,
+    "timeWeek": 147,
+    "timeMonth": 108,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-08-07": 20,
-      "2024-05-01": 27
+      "2024-08-01": 15,
+      "2024-05-01": 27,
+      "2024-04-26": 16
     }
   },
   {
@@ -28,15 +30,20 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 367,
-    "timeWeek": 222,
-    "timeMonth": 223,
+    "timeDay": 182,
+    "timeWeek": 216,
+    "timeMonth": 222,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-07": 20,
+      "2024-08-01": 15,
+      "2024-05-01": 27,
+      "2024-04-26": 16
+    }
   },
   {
     "name": "Hacker News",
@@ -46,16 +53,18 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 307,
-    "timeDay": 446,
-    "timeWeek": 308,
-    "timeMonth": 311,
-    "timeYear": 307,
+    "time": 308,
+    "timeDay": 412,
+    "timeWeek": 344,
+    "timeMonth": 315,
+    "timeYear": 308,
     "dailyMinutesDown": {
+      "2024-08-07": 20,
       "2024-08-01": 15,
+      "2024-05-01": 27,
       "2024-04-26": 16
     }
   },
@@ -65,16 +74,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/coloradoquiz.web.app.ico",
     "slug": "colorado-quiz",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 101,
-    "timeDay": 142,
-    "timeWeek": 148,
+    "timeDay": 80,
+    "timeWeek": 145,
     "timeMonth": 128,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-07": 20,
+      "2024-08-01": 15,
+      "2024-05-01": 27,
+      "2024-04-26": 16
+    }
   }
 ]
